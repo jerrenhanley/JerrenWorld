@@ -1,0 +1,46 @@
+.header {
+  /* 30vh - 30% of the view port height */
+  padding: 15vh 15%;
+  background-color: #cccccc;
+  /* image by NeuPaddy */
+  background-image: url("../images/bg-header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  opacity:.95 ;
+
+
+}
+
+.row {
+  margin: 5rem 0rem;
+}
+
+.btn-purple {
+  background-color: purple;
+  color: white;
+}
+
+.btn-cta{
+  font-size: 5rem;
+}
+
+.display-1 {
+  color: #FFFFFF;
+  text-shadow: 1px 1px 3px #000000;
+}
+
+.display-4 {
+  color: #c1cd34;
+  text-shadow: 1px 1px 3px #000000;
+}
+.footer{
+  background-color:#222222;
+  padding: 1rem 0rem;
+}
+.fab{
+  font-size: 2rem;
+  color: #ffffff;
+  border: 3px solid #ffffff;
+ padding: 10px;
+}
